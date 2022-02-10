@@ -6,3 +6,5 @@ My research interests span around Natural Language Processing, especially in app
 Record my PhD Life 
 
 Welcome to reach out to me
+
+New iMac hahaha
