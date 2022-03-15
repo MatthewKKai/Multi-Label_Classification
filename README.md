@@ -13,12 +13,16 @@ Using the .pt file we provide to ./checkpoints folder to indicate our trained pa
 
 ### Train
 Please use the following command to train the model.
-'''python3 train.py -gpus gpu_id -config model_config -log save_path -restore "" '''
-If you don't have GPUs in your device, please add 'torch.device('cuda' if torch.cuda.is_available() else 'cpu')' in train.py.
+```
+python3 train.py -gpus gpu_id -config model_config -log save_path -restore "" 
+```
+If you don't have GPUs in your device, please add `torch.device('cuda' if torch.cuda.is_available() else 'cpu')` in train.py.
 
 ### Test
 Please use the following command to test.
-'''python3 predict.py -gpus gpu_id -data save_data_path -batch_size batch_size -log log_path'''
+```
+python3 predict.py -gpus gpu_id -data save_data_path -batch_size batch_size -log log_path
+```
 
 The code follows the work of [SGM](https://github.com/lancopku/SGM)
 
