@@ -31,3 +31,4 @@ The code follows the work of [SGM](https://github.com/lancopku/SGM)
 Details can be seen in the jupyter notebook, we provide a trainable version without using GPU, if you would like use GPUs, indicate it the code will be ok.
 
 ## Results
+![results](https://github.com/MatthewKKai/matthewkkai.github.io/blob/main/results.JPG)
