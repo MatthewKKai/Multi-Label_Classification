@@ -9,7 +9,7 @@ Download [data](https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2
 * Python version >=3.0
 
 ### Loading with checkpoints
-Using the .pt file we provide to ./checkpoints folder to indicate our trained parameters to model.
+Using the .pt file we provide to ./checkpoints folder to indicate our trained parameters to the model.
 
 ### Train
 Please use the following command to train the model.
